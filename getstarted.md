@@ -7,16 +7,17 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<div class="custom-section-2" markdown="1">
-  
+<div class="custom-section-1" markdown="1">
+
 ### 1. Fork this project
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
+
 </div>
 
 
-<div class="custom-section-3" markdown="1">
+<div class="custom-section-2" markdown="1">
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -24,7 +25,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<div class="custom-section-4" markdown="1">
+<div class="custom-section-3" markdown="1">
 
 ### 3. Customize your website settings
 
@@ -38,46 +39,3 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
-
-
-
-
-
-
-
-
-
-<style>
-.custom-section-2 h3 { 
-     color: blue;
-}
-
-.custom-section-2 p {
-     font-size: 18px;
-     font-style: italic;
-}
-</style>
-
-<style>
-.custom-section-3 h3 { 
-     color: green;
-}
-
-.custom-section-3 p {
-     font-size: 20px;
-     text-decoration: underline;
-}
-</style>
-
-</div>
-
-<style>
-.custom-section-4 h3 { 
-     color: purple;
-}
-
-.custom-section-4 p {
-     font-size: 16px;
-     font-weight: bold;
-}
-</style>  
