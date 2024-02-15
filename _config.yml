@@ -11,6 +11,8 @@ title: Stephanie Deus Website
 # Your name to show in the footer
 author: Stephanie Deus
 
+theme: jekyll-theme-Minima
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
